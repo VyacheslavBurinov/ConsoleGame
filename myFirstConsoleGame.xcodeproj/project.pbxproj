@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		CA8C22E527FACD0F005C438C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA8C22E427FACD0F005C438C /* main.swift */; };
+		CA8C22EC27FACD1D005C438C /* func.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA8C22EB27FACD1D005C438C /* func.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		CA8C22E127FACD0F005C438C /* myFirstConsoleGame */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = myFirstConsoleGame; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA8C22E427FACD0F005C438C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		CA8C22EB27FACD1D005C438C /* func.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = func.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				CA8C22E427FACD0F005C438C /* main.swift */,
+				CA8C22EB27FACD1D005C438C /* func.swift */,
 			);
 			path = myFirstConsoleGame;
 			sourceTree = "<group>";
@@ -121,6 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CA8C22E527FACD0F005C438C /* main.swift in Sources */,
+				CA8C22EC27FACD1D005C438C /* func.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
